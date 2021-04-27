@@ -2,9 +2,9 @@
 
 ### To install this application:
 
-    git clone https://github.com/xfletes/chanllenge-incfile.git
+    git clone https://github.com/xfletes/challenge-incfile.git
 
-    cd chanllenge-incfile
+    cd challenge-incfile
 
     cp .env.example .env
 
