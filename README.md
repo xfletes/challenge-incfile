@@ -30,6 +30,11 @@ In this File we need to verify the next configurations:
     BASE_URL_FAKE='https://atomic.incfile.com'
     BASE_URL_ENDPOINT='/fakepost'
     MAX_FAILS=100
+    
+    DB_DATABASE=incfile
+    DB_USERNAME=root
+    DB_PASSWORD=
+
 
 ## Migrations and Seeders
 
